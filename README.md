@@ -1,7 +1,7 @@
 ## 🥳 Hi, I'm Yasmin - Junior Software Developer
 
 I recently graduated from General Assembly and am fresh on the scene and ready for a change after a short-lived career as a freelance photographer (thanks covid).
-I'm passionate about the intersections of technology, community and creativity. Since entering the industry I've participated in community events, given a few talks, and am currently co-organising the 🚂 RoRoSyd meetup (pls dm me if you want to give a talk we always need speakers).
+I'm passionate about the intersections of technology, community and creativity. Since entering the industry I've participated in community events, given a few talks, and am currently co-organising the 🚂 RoRoSyd meetup (pls contact me if you want to give a talk we always need speakers).
 
 When I'm not doing *computer nerd things* in my spare time I do *art nerd things* and am perpetually teaching myself how to sew, play guitar, and ceramics.
 
