@@ -21,11 +21,6 @@ When I'm not doing *computer nerd things* in my spare time I do *art nerd things
 ## 💃🕺 I'm looking to collaborate on
 Anything cool, but I particularly want to jump in and work on back-end stuff. 
 
-### ❤️‍🔥 Contact
-- yasminarchibald@gmail.com
-- @Yasmin_Arch (for as long as twitter exists but who knows what's going on there)
-- I blog: https://yasmina95.hashnode.dev/
-- I LinkedIn: https://www.linkedin.com/in/yasmin-archibald/ (pls include a note so I know why you're adding me and who you are)
 <!---
 Yasmin-A95/Yasmin-A95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
