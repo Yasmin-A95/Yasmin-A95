@@ -1,4 +1,4 @@
-## 🥳 Hi, I'm Yasmin - Junior Software Developer
+## 🥳 Hi, I'm Yasmin - Graduate Engineer
 
 *At the risk of repeating myself*
 
@@ -8,7 +8,7 @@ I'm passionate about the intersections of technology, community and creativity. 
 When I'm not doing *computer nerd things* in my spare time I do *art nerd things* and am perpetually teaching myself how to sew, play guitar, and ceramics.
 
 ## 👩‍💻 I'm actively working on
-- A generative text algorithm that spits out *on-theme* response emails for a literary art project I picked up as some freelance work
+- A generative text algorithm that spits out *on-theme* response emails for a literary art project I'm helping out with
 - Trying to make react and progressive enhancement friends
 
 ## 🤯 I'm currently exploring 
@@ -29,6 +29,7 @@ https://yasmina95.hashnode.dev/
 ## 🐍 I read 
 #### Currently reading
 - The HTML spec
+- The Clean Coder
 - The little schema 
 - https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API 
 - Various fic
