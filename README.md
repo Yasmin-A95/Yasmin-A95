@@ -28,11 +28,12 @@ https://yasmina95.hashnode.dev/
 
 ## 🐍 I read 
 #### Currently reading
+- The Pragmatic Programmer 
 - The HTML spec
-- The Clean Coder
 - The little schema 
 - https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API 
 - Various fic
+- ~The Clean Coder~
 
 <!---
 Yasmin-A95/Yasmin-A95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
