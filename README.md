@@ -13,6 +13,7 @@ When I'm not doing *computer nerd things* in my spare time I do *art nerd things
 
 ## 🤯 I'm currently exploring 
 ##### 🫠 To varying degrees 
+- Learning WordPress and PHP at work
 - How to make progressive enhancement work with react
 - Three.js
 - Algorithms
